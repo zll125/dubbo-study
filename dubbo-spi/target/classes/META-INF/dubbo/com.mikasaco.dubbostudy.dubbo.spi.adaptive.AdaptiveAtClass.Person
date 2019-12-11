@@ -1,0 +1,2 @@
+adaptive=com.mikasaco.dubbostudy.dubbo.spi.adaptive.AdaptiveAtClass.Man
+woman=com.mikasaco.dubbostudy.dubbo.spi.adaptive.AdaptiveAtClass.Woman

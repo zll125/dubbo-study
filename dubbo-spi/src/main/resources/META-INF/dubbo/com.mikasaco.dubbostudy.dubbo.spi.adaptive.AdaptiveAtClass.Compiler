@@ -1,0 +1,3 @@
+adaptive=com.mikasaco.dubbostudy.dubbo.spi.adaptive.AdaptiveAtClass.AdaptiveCompiler
+jdk=com.mikasaco.dubbostudy.dubbo.spi.adaptive.AdaptiveAtClass.JdkCompiler
+javassist=com.mikasaco.dubbostudy.dubbo.spi.adaptive.AdaptiveAtClass.JavassistCompiler

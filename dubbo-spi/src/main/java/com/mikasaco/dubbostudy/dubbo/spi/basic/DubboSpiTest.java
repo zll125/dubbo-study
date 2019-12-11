@@ -9,5 +9,7 @@ public class DubboSpiTest {
         defaultExtension.sayHello();
         Person woman = extensionLoader.getExtension("woman");
         woman.sayHello();
+
+
     }
 }
