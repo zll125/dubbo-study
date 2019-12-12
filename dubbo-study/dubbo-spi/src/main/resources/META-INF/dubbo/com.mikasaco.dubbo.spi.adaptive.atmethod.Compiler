@@ -1,0 +1,2 @@
+javassist=com.mikasaco.dubbo.spi.adaptive.atmethod.JavassistCompiler
+jdk=com.mikasaco.dubbo.spi.adaptive.atmethod.JdkCompiler

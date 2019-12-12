@@ -1,0 +1,2 @@
+javassist=com.mikasaco.dubbo.spi.normal.JavassistCompiler
+jdk=com.mikasaco.dubbo.spi.normal.JdkCompiler

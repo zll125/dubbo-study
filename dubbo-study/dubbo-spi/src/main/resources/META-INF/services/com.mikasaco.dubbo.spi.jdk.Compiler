@@ -1,0 +1,2 @@
+com.mikasaco.dubbo.spi.jdk.JdkCompiler
+com.mikasaco.dubbo.spi.jdk.JavassistCompiler
