@@ -1,0 +1,3 @@
+wrapper1=com.mikasaco.dubbo.spi.aop.Wrapper1
+wrapper2=com.mikasaco.dubbo.spi.aop.Wrapper2
+javassist=com.mikasaco.dubbo.spi.aop.JavassistCompiler
